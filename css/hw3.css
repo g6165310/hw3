@@ -94,6 +94,13 @@ h1{
 }
 .demo{
 	width: 240px;
+	display:block; 
+	margin:auto;
+}
+.demo h3{
+	font-size: 13px;
+	color: grey;
+	text-align:center;
 }
 .product{
 	width: 240px;
